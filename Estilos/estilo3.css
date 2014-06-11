@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+font-size:75%;
+font-family:verdana,arial,'sans serif';
+background-color:#FFFFF0;
+color:#000080;
+margin:10px;
+}
+
+h1 {
+	font-size:200%;
+	text-shadow: 5px 5px 5px #0F00CA;}
+
+h3 {font-size:110%;}
+
+p
+{
+ font-size:90%;
+ font-family: "Courier New", Courier, monospace;
+ background-image: url(dgeti.jpg);
+ background-size:contain;
+ background-repeat: no-repeat;
+ text-align:right;
+}
+
+ol {list-style:upper-roman;}
+
+a:link {color:#000080;}
+a:hover {color:red;}
